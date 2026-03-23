@@ -32,4 +32,4 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yymoeyy&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yymoeyy&show_icons=true&theme=tokyonight)
