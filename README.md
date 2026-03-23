@@ -24,12 +24,12 @@
 ## 🚀 Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| Smart Bicycle Lock | Raspberry Pi + Automation | 🟢 Active |
-| FiveM Discord Bot | Live dashboard & debug tools | 🟢 Active |
-| Auto Dashboard | Web data visualization | 🟢 Active |
+| Raspberry Pi + Automation | 🟢 Active |
+| Live dashboard & debug tools | 🟢 Active |
+| Web data visualization | 🟢 Active |
 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yymoeyy&layout=compact&theme=tokyonight)
 ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
